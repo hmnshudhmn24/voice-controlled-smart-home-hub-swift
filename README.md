@@ -3,7 +3,6 @@
 
 A powerful SwiftUI-based smart home dashboard that integrates **HomeKit** and **Siri Shortcuts** to give you full voice and tap-based control of your smart devices — all in one place. 🔌💡🚪
 
----
 
 ## 🚀 Features
 
@@ -13,7 +12,6 @@ A powerful SwiftUI-based smart home dashboard that integrates **HomeKit** and **
 - 💬 Toggle power, lights, and sensors via voice or touch
 - 🔒 Secure and local processing with HomeKit framework
 
----
 
 ## 🛠 Tech Stack
 
@@ -24,7 +22,6 @@ A powerful SwiftUI-based smart home dashboard that integrates **HomeKit** and **
 - Xcode 15+
 - iOS 15+
 
----
 
 ## 🔧 How to Install & Run
 
@@ -46,7 +43,6 @@ cd swift-voice-controlled-smart-home-hub
 - Select the target device in Xcode
 - Run the app
 
----
 
 ## 📦 Extras
 
@@ -54,6 +50,5 @@ cd swift-voice-controlled-smart-home-hub
 - ✅ Easily extendable for multiple home scenes and automations
 - ✅ Clean modular Swift codebase for easy enhancements
 
----
 
 Control your world, one voice command at a time 🧠⚡
